@@ -1,2 +1,2 @@
 # DocuNamer
-Create APA heading for school documents.
+Create APA headings for school documents.
